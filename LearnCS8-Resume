@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset='UTF-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="favicon.ico">
+  <meta name="description" content="My Resume">
+  <meta name="author" content="862582299">
+
+  <title>Izabelle Shoff - Biochemistry Student</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Izabelle Shoff</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/IzabelleShoff.png.jpeg" alt="Profile Picture">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-3">Izabelle Shoff
+        </h1>
+        <div class="subheading mb-5">UCR Biochemistry Student</div>
+        <p class="lead mb-4">I am currently attending the University of California Riverside, with a major in Biochemistry. 
+        I am only a first year at nineteen years of age, but I have a plan to get my masters in Forensic Science<br><br>
+
+        I maintain occupation with school and rigorous courses, especially as a Biochem student, but I am always on the lookout for experience in a lab oppurtunity. Afterall,
+        practice makes perfect, and hands on experience is the best experience.<br><br>
+
+        I am based in Southern California and have lived here the entirety of my life. I look forward to growing towards my goals in life over time and with exceptionally hard work.
+        </p>
+        <div class="social-icons">
+          <a target="_blank" id="socialicon-1" href="https://github.com/IzabelleShoff">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a target="_blank" id="socialicon-2" href="https://github.com/IzabelleShoff">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" id="socialicon-3" href="https://github.com/IzabelleShoff">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" id="socialicon-4" href="https://github.com/IzabelleShoff">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Special Education Volunteer Aid</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://yourcompany.com">Pedley Elementary</a></div>
+            <p>
+              • Managed behaviors well<br> 
+              • Learning to work well with children<br>
+              • Flexibility with schedule changes<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2023 - May 2025</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Kitchen Worker</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://wholefoods.com">Brandons Diner</a></div>
+            <p>
+              • Cooking<br>
+              • Cleaning<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">May 2025 - December 2025</span>
+          </div>
+        </div>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Online Reseller</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://ucr.edu">Poshmark Reseller</a></div>
+            <p>
+            • Found resourceful inventory<br>
+            • Packaged orders<br>
+            • Succesful bartering of Price<br>
+            • Proper Researcher<br>
+
+          </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">January 2025-Present </span>
+          </div>
+        </div>
+
+
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">UC Riverside</h3>
+            <div class="subheading mb-3">Biochemistry</div>
+            <div>Bachelors in Biochemistry</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2025 - May 2029</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">Patriot Highschool</h3>
+            <div class="subheading mb-3">Diploma</div>
+            <div>Avid- orgizational skills, and CTE pathway completed</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">May 2025</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0"></h3>
+            <div class="subheading mb-3">CTE: First Aid Course</div>
+            <div> CPR Certification</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">January 2025</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h1>
+        <center>
+            <img src="img/PHScertificate.jpeg" width="200px">
+            <img src="img/gradphoto.jpeg" width="200px"><br>
+            <img src="img/CTEgraverecovery.jpeg" width= "200px">
+            <img src="img/Avid.jpeg" width= "200px"><br>
+        </center>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    <center>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+  </script> Izabelle Shoff</center><br>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+</body>
+</html>
